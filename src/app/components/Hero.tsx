@@ -18,7 +18,7 @@ const Hero = () => {
         <div className="hidden lg:block"></div>
         <div className="text-[40px] sm:text-[60px] md:text-[80px] lg:text-[100px] font-bold leading-tight flex justify-center items-center">
           <div className="text-left">
-            <p data-aos="fade-down">I{'&apos'}m</p>
+            <p data-aos="fade-down">{`I'm`}</p>
             <p data-aos="fade-up">Rabia</p>
             <p data-aos="fade-down">Rehman</p>
           </div>
